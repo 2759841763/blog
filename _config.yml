@@ -104,3 +104,9 @@ deploy:
   type: git
   repository: git@github.com:2759841763/blog.git
   branch: main
+# Markdown Renderer
+# 关闭对 {% 
+# Markdown Renderer
+# 关闭对 {% %} 与 {{ }} 的模板解析，避免 SSTI 等含 Jinja2 语法的代码破坏构建
+marked:
+  disableNunjucks: true
