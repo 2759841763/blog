@@ -8,7 +8,7 @@ tags:
   - QVD-2026-59388
   - 漏洞复现
 categories:
-  - vulhub靶场
+  - [vulhub靶场, nacos]
 ---
 
 # Nacos 3.x 未授权创建管理员漏洞

@@ -8,7 +8,7 @@ tags:
   - QVD-2023-6271
   - 漏洞复现
 categories:
-  - vulhub靶场
+  - [vulhub靶场, nacos]
 ---
 
 # Nacos token.secret.key 身份认证绕过漏洞（QVD-2023-6271）
