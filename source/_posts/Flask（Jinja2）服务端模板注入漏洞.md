@@ -8,7 +8,7 @@ tags:
   - Flask
   - Jinja2
 categories:
-  - 漏洞复现
+  - vulhub靶场
 ---
 
 # Flask（Jinja2）服务端模板注入漏洞
