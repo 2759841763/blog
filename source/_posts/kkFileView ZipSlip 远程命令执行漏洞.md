@@ -102,7 +102,7 @@ python 1.py
 
 当我们发现预览sample.odt进行长时间的加载就说明反弹shell执行成功
 
-![image-20261119211225069](/img/misc/image-20261119211225069_1.png)
+![image-20261119211225069](/img/misc/image-20261119211225069_2.png)
 
 
 
