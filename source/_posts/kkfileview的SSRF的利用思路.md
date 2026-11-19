@@ -1,6 +1,8 @@
 ---
 title: "kkfileview的SSRF的利用思路"
 date: 2026-11-19 00:00:00
+categories:
+  - 实战
 ---
 
 # kkfileview的SSRF的利用思路
