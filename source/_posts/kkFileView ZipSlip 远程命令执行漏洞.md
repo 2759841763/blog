@@ -1,6 +1,13 @@
 ---
 title: "kkFileView ZipSlip 远程命令执行漏洞"
 date: 2026-11-19 00:00:00
+tags:
+  - kkFileView
+  - ZipSlip
+  - 命令执行
+  - 漏洞复现
+categories:
+  - [vulhub靶场, kkfileview]
 ---
 
 # kkFileView ZipSlip 远程命令执行漏洞
